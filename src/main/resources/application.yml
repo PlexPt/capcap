@@ -1,0 +1,10 @@
+server:
+  port: 2300
+
+
+
+
+app:
+  chrome:
+    path: "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+    driver: "C:\\chromedriver.exe"
